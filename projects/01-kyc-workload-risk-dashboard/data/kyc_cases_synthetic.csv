@@ -1,0 +1,501 @@
+case_id,analyst_id,customer_type,country,risk_rating,review_type,open_date,due_date,completion_date,case_status
+KYC-0001,ANL-08,Corporate,Italy,Medium,Onboarding,2026-09-17,2026-10-17,,In Progress
+KYC-0002,ANL-06,Individual,Italy,Low,Onboarding,2026-08-18,2026-09-22,,In Progress
+KYC-0003,ANL-04,Individual,Cyprus,Medium,Periodic,2026-05-08,2026-06-22,2026-06-18,Completed
+KYC-0004,ANL-01,Individual,Cyprus,Low,Onboarding,2026-08-05,2026-09-09,,Open
+KYC-0005,ANL-07,Individual,Italy,Low,Periodic,2026-09-13,2026-11-02,,In Progress
+KYC-0006,ANL-06,Corporate,Italy,Low,Onboarding,2026-05-15,2026-06-19,2026-06-01,Completed
+KYC-0007,ANL-05,Individual,Italy,Medium,Onboarding,2026-09-14,2026-10-14,,Open
+KYC-0008,ANL-03,Individual,Spain,Low,Onboarding,2026-08-23,2026-09-27,2026-08-31,Completed
+KYC-0009,ANL-08,Individual,Greece,Low,Triggered,2026-08-07,2026-09-02,,In Progress
+KYC-0010,ANL-06,Corporate,Cyprus,Low,Onboarding,2026-09-16,2026-10-21,,In Progress
+KYC-0011,ANL-05,Individual,Cyprus,Low,Periodic,2026-03-19,2026-05-08,2026-04-11,Completed
+KYC-0012,ANL-05,Individual,Netherlands,Low,Periodic,2026-08-13,2026-10-02,2026-09-08,Completed
+KYC-0013,ANL-03,Individual,Spain,Low,Periodic,2026-05-16,2026-07-05,2026-07-08,Completed
+KYC-0014,ANL-04,Corporate,Cyprus,Low,Onboarding,2026-09-22,2026-10-27,,Open
+KYC-0015,ANL-06,Individual,Netherlands,High,Triggered,2026-06-05,2026-06-21,2026-07-06,Completed
+KYC-0016,ANL-03,Individual,Netherlands,Medium,Onboarding,2025-12-29,2026-01-28,2026-01-16,Completed
+KYC-0017,ANL-03,Individual,France,Low,Periodic,2026-06-27,2026-08-16,2026-07-11,Completed
+KYC-0018,ANL-02,Corporate,Netherlands,Low,Periodic,2026-09-12,2026-11-01,,In Progress
+KYC-0019,ANL-07,Corporate,France,Medium,Periodic,2026-03-25,2026-05-09,2026-05-20,Completed
+KYC-0020,ANL-07,Corporate,France,Medium,Periodic,2026-06-16,2026-07-31,2026-08-08,Completed
+KYC-0021,ANL-07,Individual,Greece,Medium,Periodic,2025-12-27,2026-02-10,2026-03-01,Completed
+KYC-0022,ANL-02,Individual,Netherlands,Low,Periodic,2026-08-19,2026-10-08,,In Progress
+KYC-0023,ANL-08,Corporate,Italy,Medium,Periodic,2026-08-11,2026-09-25,,Open
+KYC-0024,ANL-07,Individual,Greece,High,Onboarding,2026-04-12,2026-05-07,2026-05-20,Completed
+KYC-0025,ANL-06,Corporate,Greece,Low,Periodic,2026-01-25,2026-03-16,2026-02-11,Completed
+KYC-0026,ANL-01,Corporate,Cyprus,High,Periodic,2026-03-03,2026-04-12,2026-04-14,Completed
+KYC-0027,ANL-01,Individual,Spain,Medium,Onboarding,2026-09-07,2026-10-07,,In Progress
+KYC-0028,ANL-03,Individual,France,Medium,Onboarding,2026-08-25,2026-09-24,,In Progress
+KYC-0029,ANL-08,Individual,Netherlands,Medium,Periodic,2026-07-18,2026-09-01,,Open
+KYC-0030,ANL-04,Individual,Netherlands,Low,Periodic,2026-09-20,2026-11-09,,In Progress
+KYC-0031,ANL-08,Corporate,Germany,Medium,Periodic,2026-08-27,2026-10-11,2026-09-05,Completed
+KYC-0032,ANL-04,Individual,Germany,High,Triggered,2026-07-09,2026-07-25,2026-08-28,Completed
+KYC-0033,ANL-08,Corporate,Greece,Medium,Periodic,2026-09-05,2026-10-20,,In Progress
+KYC-0034,ANL-03,Corporate,Cyprus,Medium,Periodic,2026-06-02,2026-07-17,2026-08-03,Completed
+KYC-0035,ANL-08,Individual,Cyprus,Low,Onboarding,2026-08-27,2026-10-01,,In Progress
+KYC-0036,ANL-08,Corporate,France,Medium,Periodic,2026-09-18,2026-11-02,,In Progress
+KYC-0037,ANL-08,Individual,Cyprus,Low,Periodic,2025-12-25,2026-02-13,2026-01-15,Completed
+KYC-0038,ANL-04,Individual,Italy,Low,Triggered,2026-07-27,2026-08-22,,In Progress
+KYC-0039,ANL-04,Individual,France,Low,Onboarding,2026-09-22,2026-10-27,,In Progress
+KYC-0040,ANL-07,Individual,Cyprus,Low,Periodic,2026-09-07,2026-10-27,,Open
+KYC-0041,ANL-03,Corporate,France,Medium,Periodic,2026-05-23,2026-07-07,2026-06-24,Completed
+KYC-0042,ANL-01,Individual,Italy,Medium,Triggered,2026-01-14,2026-02-04,2026-01-22,Completed
+KYC-0043,ANL-07,Corporate,Greece,Low,Onboarding,2026-08-28,2026-10-02,2026-09-06,Completed
+KYC-0044,ANL-05,Individual,France,Low,Periodic,2026-08-26,2026-10-15,,Open
+KYC-0045,ANL-05,Individual,Germany,Low,Periodic,2026-04-22,2026-06-11,2026-06-18,Completed
+KYC-0046,ANL-07,Individual,Greece,Low,Onboarding,2026-09-14,2026-10-19,,In Progress
+KYC-0047,ANL-07,Individual,Netherlands,Medium,Triggered,2026-08-04,2026-08-25,,In Progress
+KYC-0048,ANL-03,Individual,France,Medium,Triggered,2026-09-06,2026-09-27,,Open
+KYC-0049,ANL-08,Individual,Cyprus,High,Onboarding,2026-06-03,2026-06-28,2026-07-09,Completed
+KYC-0050,ANL-01,Corporate,France,Medium,Triggered,2026-03-12,2026-04-02,2026-03-30,Completed
+KYC-0051,ANL-08,Individual,Ireland,Low,Periodic,2026-04-22,2026-06-11,2026-05-14,Completed
+KYC-0052,ANL-05,Individual,France,Low,Triggered,2026-03-24,2026-04-19,2026-04-15,Completed
+KYC-0053,ANL-07,Individual,Cyprus,Low,Triggered,2026-07-28,2026-08-23,,In Progress
+KYC-0054,ANL-02,Individual,France,High,Periodic,2026-02-16,2026-03-28,2026-03-17,Completed
+KYC-0055,ANL-07,Individual,Ireland,High,Periodic,2026-07-18,2026-08-27,,In Progress
+KYC-0056,ANL-07,Corporate,Cyprus,Low,Triggered,2025-12-20,2026-01-15,2026-01-31,Completed
+KYC-0057,ANL-08,Individual,Cyprus,Low,Onboarding,2026-09-08,2026-10-13,,In Progress
+KYC-0058,ANL-05,Individual,Italy,Low,Onboarding,2026-08-22,2026-09-26,2026-09-16,Completed
+KYC-0059,ANL-03,Individual,Greece,High,Onboarding,2026-08-28,2026-09-22,2026-09-05,Completed
+KYC-0060,ANL-01,Individual,France,Medium,Periodic,2026-02-13,2026-03-30,2026-03-30,Completed
+KYC-0061,ANL-04,Individual,France,Medium,Periodic,2026-09-02,2026-10-17,,In Progress
+KYC-0062,ANL-04,Individual,Italy,Low,Periodic,2026-09-19,2026-11-08,,In Progress
+KYC-0063,ANL-05,Individual,France,Medium,Onboarding,2026-08-05,2026-09-04,,In Progress
+KYC-0064,ANL-02,Corporate,Cyprus,Low,Periodic,2026-01-19,2026-03-10,2026-02-18,Completed
+KYC-0065,ANL-04,Individual,Cyprus,Medium,Periodic,2026-07-22,2026-09-05,,Open
+KYC-0066,ANL-04,Individual,Spain,Low,Onboarding,2026-05-22,2026-06-26,2026-06-12,Completed
+KYC-0067,ANL-03,Individual,Ireland,Low,Triggered,2026-08-06,2026-09-01,,In Progress
+KYC-0068,ANL-02,Corporate,Germany,Medium,Triggered,2026-09-13,2026-10-04,,In Progress
+KYC-0069,ANL-03,Individual,Germany,Low,Onboarding,2026-07-09,2026-08-13,2026-09-10,Completed
+KYC-0070,ANL-05,Corporate,France,High,Periodic,2026-01-01,2026-02-10,2026-01-21,Completed
+KYC-0071,ANL-05,Corporate,France,High,Onboarding,2026-08-26,2026-09-20,,In Progress
+KYC-0072,ANL-07,Individual,Germany,High,Onboarding,2026-08-07,2026-09-01,2026-08-19,Completed
+KYC-0073,ANL-05,Individual,Italy,Low,Periodic,2026-07-26,2026-09-14,,In Progress
+KYC-0074,ANL-06,Corporate,Netherlands,Medium,Onboarding,2026-08-06,2026-09-05,2026-08-21,Completed
+KYC-0075,ANL-06,Individual,Netherlands,High,Onboarding,2026-06-03,2026-06-28,,Open
+KYC-0076,ANL-04,Corporate,Germany,Medium,Triggered,2026-01-01,2026-01-22,2026-02-15,Completed
+KYC-0077,ANL-03,Individual,Greece,Low,Onboarding,2026-03-24,2026-04-28,2026-05-08,Completed
+KYC-0078,ANL-06,Individual,France,Low,Onboarding,2026-09-23,2026-10-28,,Open
+KYC-0079,ANL-04,Corporate,Greece,High,Onboarding,2026-02-02,2026-02-27,2026-02-20,Completed
+KYC-0080,ANL-03,Corporate,Netherlands,High,Periodic,2026-05-21,2026-06-30,2026-06-30,Completed
+KYC-0081,ANL-06,Individual,Germany,Low,Onboarding,2025-12-15,2026-01-19,2026-02-13,Completed
+KYC-0082,ANL-08,Corporate,France,Low,Periodic,2026-07-23,2026-09-11,,Open
+KYC-0083,ANL-02,Individual,France,High,Periodic,2026-09-11,2026-10-21,,In Progress
+KYC-0084,ANL-01,Individual,Greece,Medium,Periodic,2026-08-11,2026-09-25,2026-08-14,Completed
+KYC-0085,ANL-08,Individual,Greece,Medium,Periodic,2026-01-26,2026-03-12,2026-02-12,Completed
+KYC-0086,ANL-07,Individual,Spain,Medium,Onboarding,2026-01-14,2026-02-13,2026-02-16,Completed
+KYC-0087,ANL-05,Individual,Germany,Low,Triggered,2026-01-08,2026-02-03,2026-02-24,Completed
+KYC-0088,ANL-01,Individual,Cyprus,Medium,Periodic,2026-02-18,2026-04-04,2026-04-07,Completed
+KYC-0089,ANL-08,Corporate,Italy,Medium,Periodic,2026-09-10,2026-10-25,,Open
+KYC-0090,ANL-07,Individual,Greece,Medium,Triggered,2026-08-18,2026-09-08,2026-09-16,Completed
+KYC-0091,ANL-06,Individual,France,Low,Periodic,2026-07-27,2026-09-15,,Open
+KYC-0092,ANL-08,Individual,Netherlands,Low,Onboarding,2026-03-20,2026-04-24,2026-03-26,Completed
+KYC-0093,ANL-06,Individual,Germany,Low,Onboarding,2026-08-26,2026-09-30,,In Progress
+KYC-0094,ANL-06,Corporate,Ireland,Medium,Onboarding,2026-07-02,2026-08-01,2026-07-08,Completed
+KYC-0095,ANL-04,Corporate,Netherlands,Low,Triggered,2026-08-01,2026-08-27,,In Progress
+KYC-0096,ANL-08,Individual,Germany,Low,Onboarding,2026-07-27,2026-08-31,,In Progress
+KYC-0097,ANL-01,Individual,Greece,Medium,Periodic,2026-08-29,2026-10-13,,In Progress
+KYC-0098,ANL-04,Individual,Cyprus,High,Periodic,2026-08-18,2026-09-27,2026-09-14,Completed
+KYC-0099,ANL-05,Individual,Netherlands,Low,Onboarding,2026-04-19,2026-05-24,2026-06-03,Completed
+KYC-0100,ANL-08,Corporate,Greece,High,Periodic,2026-07-15,2026-08-24,,In Progress
+KYC-0101,ANL-07,Corporate,Ireland,Medium,Onboarding,2026-03-18,2026-04-17,2026-05-22,Completed
+KYC-0102,ANL-06,Individual,Italy,Medium,Onboarding,2026-08-21,2026-09-20,,In Progress
+KYC-0103,ANL-02,Individual,Spain,Low,Periodic,2026-07-17,2026-09-05,2026-09-18,Completed
+KYC-0104,ANL-02,Individual,Ireland,Low,Periodic,2026-08-03,2026-09-22,,In Progress
+KYC-0105,ANL-07,Individual,Italy,Low,Onboarding,2026-03-01,2026-04-05,2026-04-15,Completed
+KYC-0106,ANL-01,Individual,Netherlands,Medium,Periodic,2026-09-11,2026-10-26,,Open
+KYC-0107,ANL-02,Individual,Italy,Low,Onboarding,2026-03-17,2026-04-21,2026-04-21,Completed
+KYC-0108,ANL-07,Corporate,Italy,Low,Periodic,2026-07-04,2026-08-23,,In Progress
+KYC-0109,ANL-02,Individual,Netherlands,Medium,Periodic,2026-08-29,2026-10-13,,In Progress
+KYC-0110,ANL-03,Corporate,Netherlands,Medium,Periodic,2026-09-06,2026-10-21,,In Progress
+KYC-0111,ANL-04,Corporate,Ireland,Low,Periodic,2026-07-01,2026-08-20,2026-07-22,Completed
+KYC-0112,ANL-03,Individual,Greece,High,Periodic,2026-09-16,2026-10-26,,Open
+KYC-0113,ANL-03,Corporate,France,Low,Periodic,2026-09-19,2026-11-08,,Open
+KYC-0114,ANL-05,Corporate,Netherlands,Low,Periodic,2026-09-22,2026-11-11,,In Progress
+KYC-0115,ANL-01,Corporate,Netherlands,Low,Periodic,2026-09-10,2026-10-30,,In Progress
+KYC-0116,ANL-08,Individual,Cyprus,Low,Onboarding,2026-09-03,2026-10-08,,Open
+KYC-0117,ANL-04,Individual,Netherlands,High,Periodic,2025-12-12,2026-01-21,2026-01-15,Completed
+KYC-0118,ANL-01,Individual,Ireland,Medium,Periodic,2026-09-12,2026-10-27,,In Progress
+KYC-0119,ANL-04,Individual,Ireland,Medium,Periodic,2026-08-30,2026-10-14,,In Progress
+KYC-0120,ANL-04,Corporate,Spain,Medium,Onboarding,2026-07-02,2026-08-01,2026-07-16,Completed
+KYC-0121,ANL-04,Individual,Netherlands,Medium,Periodic,2026-04-04,2026-05-19,2026-04-07,Completed
+KYC-0122,ANL-04,Individual,Germany,Medium,Periodic,2026-07-30,2026-09-13,,Open
+KYC-0123,ANL-07,Corporate,Germany,Low,Onboarding,2026-04-05,2026-05-10,2026-06-05,Completed
+KYC-0124,ANL-08,Individual,Netherlands,Medium,Onboarding,2026-03-10,2026-04-09,2026-05-03,Completed
+KYC-0125,ANL-06,Corporate,Italy,Low,Onboarding,2026-03-20,2026-04-24,2026-04-19,Completed
+KYC-0126,ANL-02,Corporate,Cyprus,Medium,Onboarding,2026-03-21,2026-04-20,2026-04-25,Completed
+KYC-0127,ANL-03,Corporate,Italy,Low,Onboarding,2026-06-05,2026-07-10,2026-07-18,Completed
+KYC-0128,ANL-03,Corporate,Netherlands,Low,Onboarding,2026-09-05,2026-10-10,,In Progress
+KYC-0129,ANL-06,Individual,Ireland,Medium,Triggered,2026-09-22,2026-10-13,,In Progress
+KYC-0130,ANL-04,Corporate,Germany,Low,Periodic,2025-11-26,2026-01-15,2025-12-31,Completed
+KYC-0131,ANL-06,Individual,Spain,High,Triggered,2026-05-29,2026-06-14,2026-07-09,Completed
+KYC-0132,ANL-03,Individual,Cyprus,Medium,Onboarding,2026-07-05,2026-08-04,2026-07-19,Completed
+KYC-0133,ANL-01,Individual,Cyprus,High,Periodic,2026-03-30,2026-05-09,2026-04-11,Completed
+KYC-0134,ANL-02,Individual,Greece,High,Periodic,2026-07-31,2026-09-09,,Open
+KYC-0135,ANL-08,Individual,Cyprus,Medium,Periodic,2026-07-07,2026-08-21,2026-07-20,Completed
+KYC-0136,ANL-08,Individual,Italy,Low,Periodic,2026-06-16,2026-08-05,2026-08-13,Completed
+KYC-0137,ANL-07,Corporate,France,Medium,Periodic,2026-01-11,2026-02-25,2026-02-26,Completed
+KYC-0138,ANL-08,Individual,Germany,High,Onboarding,2026-09-01,2026-09-26,,In Progress
+KYC-0139,ANL-04,Individual,Cyprus,High,Triggered,2026-03-07,2026-03-23,2026-04-12,Completed
+KYC-0140,ANL-07,Individual,Ireland,Low,Triggered,2026-07-11,2026-08-06,2026-08-10,Completed
+KYC-0141,ANL-01,Individual,Italy,Low,Onboarding,2026-07-21,2026-08-25,2026-08-12,Completed
+KYC-0142,ANL-02,Individual,France,Low,Periodic,2026-09-02,2026-10-22,,Open
+KYC-0143,ANL-08,Individual,Netherlands,Medium,Periodic,2026-07-24,2026-09-07,2026-08-16,Completed
+KYC-0144,ANL-01,Individual,Ireland,Low,Triggered,2026-04-21,2026-05-17,2026-06-21,Completed
+KYC-0145,ANL-05,Individual,Greece,Medium,Triggered,2026-09-12,2026-10-03,,In Progress
+KYC-0146,ANL-04,Corporate,Germany,Low,Onboarding,2026-09-16,2026-10-21,,In Progress
+KYC-0147,ANL-01,Individual,France,Low,Triggered,2026-09-05,2026-10-01,,In Progress
+KYC-0148,ANL-05,Corporate,France,High,Periodic,2026-08-02,2026-09-11,,In Progress
+KYC-0149,ANL-07,Individual,France,Medium,Periodic,2026-06-07,2026-07-22,2026-06-19,Completed
+KYC-0150,ANL-06,Individual,Italy,Medium,Periodic,2026-08-20,2026-10-04,,In Progress
+KYC-0151,ANL-04,Corporate,Ireland,Medium,Triggered,2026-08-10,2026-08-31,,In Progress
+KYC-0152,ANL-01,Corporate,France,Medium,Triggered,2026-02-12,2026-03-05,2026-03-14,Completed
+KYC-0153,ANL-04,Individual,Greece,High,Onboarding,2026-08-01,2026-08-26,,Open
+KYC-0154,ANL-03,Individual,Netherlands,High,Periodic,2026-06-10,2026-07-20,,Open
+KYC-0155,ANL-01,Corporate,Greece,Medium,Onboarding,2025-11-28,2025-12-28,2025-12-16,Completed
+KYC-0156,ANL-02,Individual,Germany,Medium,Periodic,2026-01-27,2026-03-13,2026-03-07,Completed
+KYC-0157,ANL-01,Individual,Germany,Medium,Triggered,2026-05-24,2026-06-14,2026-06-29,Completed
+KYC-0158,ANL-08,Individual,Germany,High,Onboarding,2026-09-23,2026-10-18,,In Progress
+KYC-0159,ANL-06,Individual,Ireland,Medium,Periodic,2026-05-06,2026-06-20,2026-05-20,Completed
+KYC-0160,ANL-01,Corporate,Germany,High,Periodic,2025-11-25,2026-01-04,2026-01-17,Completed
+KYC-0161,ANL-03,Corporate,Germany,Low,Periodic,2026-02-08,2026-03-30,2026-02-18,Completed
+KYC-0162,ANL-04,Corporate,Netherlands,Medium,Periodic,2026-09-07,2026-10-22,,Open
+KYC-0163,ANL-07,Individual,Cyprus,High,Onboarding,2026-08-21,2026-09-15,,In Progress
+KYC-0164,ANL-07,Corporate,Greece,Low,Periodic,2026-07-11,2026-08-30,,In Progress
+KYC-0165,ANL-08,Individual,Italy,Medium,Periodic,2026-04-15,2026-05-30,2026-05-19,Completed
+KYC-0166,ANL-05,Individual,Greece,Low,Triggered,2026-08-29,2026-09-24,,In Progress
+KYC-0167,ANL-07,Individual,Spain,Low,Periodic,2026-08-25,2026-10-14,,Open
+KYC-0168,ANL-06,Corporate,Cyprus,Low,Triggered,2026-09-12,2026-10-08,,Open
+KYC-0169,ANL-08,Individual,Spain,Medium,Periodic,2026-09-07,2026-10-22,,In Progress
+KYC-0170,ANL-05,Corporate,France,Medium,Onboarding,2026-08-19,2026-09-18,,Open
+KYC-0171,ANL-04,Corporate,Cyprus,Low,Triggered,2026-09-10,2026-10-06,,Open
+KYC-0172,ANL-03,Corporate,Italy,Low,Triggered,2025-12-03,2025-12-29,2026-01-20,Completed
+KYC-0173,ANL-01,Corporate,Cyprus,Low,Onboarding,2026-08-13,2026-09-17,,In Progress
+KYC-0174,ANL-08,Corporate,Cyprus,Low,Triggered,2026-08-10,2026-09-05,,Open
+KYC-0175,ANL-03,Individual,Germany,Medium,Onboarding,2026-08-22,2026-09-21,,Open
+KYC-0176,ANL-08,Individual,Greece,Low,Periodic,2026-08-02,2026-09-21,,In Progress
+KYC-0177,ANL-02,Individual,France,Low,Periodic,2026-01-20,2026-03-11,2026-03-14,Completed
+KYC-0178,ANL-03,Corporate,Italy,High,Periodic,2026-01-11,2026-02-20,2026-02-23,Completed
+KYC-0179,ANL-08,Individual,Ireland,Medium,Periodic,2026-06-28,2026-08-12,2026-08-28,Completed
+KYC-0180,ANL-05,Individual,Ireland,Medium,Onboarding,2026-08-17,2026-09-16,,In Progress
+KYC-0181,ANL-02,Corporate,Netherlands,Medium,Periodic,2026-09-12,2026-10-27,,Open
+KYC-0182,ANL-06,Individual,Greece,Medium,Periodic,2026-05-19,2026-07-03,2026-06-07,Completed
+KYC-0183,ANL-08,Individual,Italy,High,Periodic,2026-07-28,2026-09-06,,In Progress
+KYC-0184,ANL-02,Individual,Ireland,High,Onboarding,2026-09-17,2026-10-12,,In Progress
+KYC-0185,ANL-05,Individual,France,Medium,Periodic,2026-03-10,2026-04-24,2026-05-02,Completed
+KYC-0186,ANL-06,Individual,Spain,Medium,Onboarding,2026-08-14,2026-09-13,,In Progress
+KYC-0187,ANL-03,Corporate,France,Medium,Onboarding,2026-06-28,2026-07-28,2026-07-31,Completed
+KYC-0188,ANL-04,Individual,Ireland,Medium,Periodic,2026-09-05,2026-10-20,,Open
+KYC-0189,ANL-08,Individual,Italy,Medium,Periodic,2026-06-25,2026-08-09,2026-08-05,Completed
+KYC-0190,ANL-07,Corporate,France,Low,Onboarding,2026-08-06,2026-09-10,2026-09-17,Completed
+KYC-0191,ANL-01,Individual,Germany,Medium,Periodic,2026-09-03,2026-10-18,,In Progress
+KYC-0192,ANL-05,Individual,Greece,Low,Triggered,2026-07-04,2026-07-30,,Open
+KYC-0193,ANL-03,Individual,France,Low,Periodic,2026-08-28,2026-10-17,,In Progress
+KYC-0194,ANL-05,Individual,Spain,Medium,Periodic,2026-08-13,2026-09-27,,Open
+KYC-0195,ANL-07,Individual,Germany,High,Periodic,2026-06-08,2026-07-18,,In Progress
+KYC-0196,ANL-07,Corporate,Spain,Medium,Onboarding,2026-09-05,2026-10-05,,In Progress
+KYC-0197,ANL-02,Corporate,Netherlands,Medium,Onboarding,2026-07-22,2026-08-21,,Open
+KYC-0198,ANL-06,Individual,Germany,Medium,Periodic,2026-05-16,2026-06-30,2026-06-16,Completed
+KYC-0199,ANL-03,Corporate,Italy,Medium,Onboarding,2026-08-04,2026-09-03,,In Progress
+KYC-0200,ANL-06,Corporate,Spain,Low,Periodic,2026-06-27,2026-08-16,,In Progress
+KYC-0201,ANL-04,Individual,France,High,Onboarding,2026-04-13,2026-05-08,2026-06-17,Completed
+KYC-0202,ANL-05,Individual,Italy,Medium,Triggered,2026-09-01,2026-09-22,,Open
+KYC-0203,ANL-02,Individual,Germany,Low,Onboarding,2026-07-22,2026-08-26,,In Progress
+KYC-0204,ANL-01,Corporate,Germany,Medium,Periodic,2026-09-20,2026-11-04,,Open
+KYC-0205,ANL-08,Corporate,Netherlands,Medium,Periodic,2026-05-22,2026-07-06,2026-07-15,Completed
+KYC-0206,ANL-04,Individual,Italy,Low,Periodic,2026-01-07,2026-02-26,2026-01-24,Completed
+KYC-0207,ANL-01,Individual,Greece,Medium,Triggered,2026-04-21,2026-05-12,2026-06-22,Completed
+KYC-0208,ANL-05,Individual,Netherlands,Low,Periodic,2025-12-16,2026-02-04,2026-01-01,Completed
+KYC-0209,ANL-03,Individual,Italy,Low,Onboarding,2026-09-22,2026-10-27,,Open
+KYC-0210,ANL-07,Individual,Netherlands,Low,Triggered,2026-02-13,2026-03-11,2026-03-22,Completed
+KYC-0211,ANL-07,Corporate,Ireland,Medium,Triggered,2026-08-17,2026-09-07,,In Progress
+KYC-0212,ANL-06,Corporate,Italy,Medium,Onboarding,2026-04-29,2026-05-29,2026-05-08,Completed
+KYC-0213,ANL-02,Individual,Netherlands,High,Triggered,2026-01-12,2026-01-28,2026-03-13,Completed
+KYC-0214,ANL-03,Corporate,Greece,Low,Onboarding,2026-09-04,2026-10-09,,Open
+KYC-0215,ANL-06,Corporate,Netherlands,Medium,Triggered,2026-08-04,2026-08-25,,In Progress
+KYC-0216,ANL-01,Individual,Netherlands,Medium,Onboarding,2026-06-24,2026-07-24,2026-08-07,Completed
+KYC-0217,ANL-08,Individual,Cyprus,Low,Periodic,2026-09-11,2026-10-31,,In Progress
+KYC-0218,ANL-05,Individual,Ireland,Low,Periodic,2026-09-05,2026-10-25,,In Progress
+KYC-0219,ANL-08,Corporate,Italy,High,Periodic,2026-08-02,2026-09-11,2026-09-09,Completed
+KYC-0220,ANL-07,Individual,Greece,Low,Onboarding,2026-06-09,2026-07-14,2026-08-10,Completed
+KYC-0221,ANL-01,Corporate,Germany,Medium,Periodic,2026-09-17,2026-11-01,,In Progress
+KYC-0222,ANL-08,Individual,Cyprus,High,Periodic,2026-07-22,2026-08-31,,In Progress
+KYC-0223,ANL-05,Corporate,Netherlands,Medium,Triggered,2026-05-20,2026-06-10,2026-07-16,Completed
+KYC-0224,ANL-08,Individual,Italy,High,Triggered,2026-09-10,2026-09-26,2026-09-18,Completed
+KYC-0225,ANL-03,Individual,Spain,Medium,Triggered,2026-05-03,2026-05-24,2026-06-04,Completed
+KYC-0226,ANL-03,Individual,Cyprus,Medium,Onboarding,2026-01-03,2026-02-02,2026-02-27,Completed
+KYC-0227,ANL-08,Corporate,Netherlands,Low,Periodic,2026-03-30,2026-05-19,2026-05-26,Completed
+KYC-0228,ANL-08,Corporate,Ireland,Low,Periodic,2026-09-16,2026-11-05,,In Progress
+KYC-0229,ANL-03,Individual,France,Medium,Triggered,2026-08-28,2026-09-18,,In Progress
+KYC-0230,ANL-04,Corporate,Netherlands,Low,Triggered,2026-09-18,2026-10-14,,In Progress
+KYC-0231,ANL-01,Individual,Italy,Low,Periodic,2026-08-29,2026-10-18,2026-09-11,Completed
+KYC-0232,ANL-03,Corporate,Spain,Low,Triggered,2026-08-10,2026-09-05,,Open
+KYC-0233,ANL-03,Corporate,Cyprus,High,Periodic,2026-09-22,2026-11-01,,In Progress
+KYC-0234,ANL-04,Corporate,Ireland,High,Onboarding,2025-12-18,2026-01-12,2026-02-11,Completed
+KYC-0235,ANL-02,Individual,Italy,Low,Onboarding,2026-07-30,2026-09-03,2026-09-09,Completed
+KYC-0236,ANL-05,Corporate,Cyprus,Low,Triggered,2026-08-14,2026-09-09,2026-08-24,Completed
+KYC-0237,ANL-05,Corporate,Germany,Low,Periodic,2026-04-08,2026-05-28,2026-05-14,Completed
+KYC-0238,ANL-05,Corporate,Spain,Medium,Triggered,2026-09-09,2026-09-30,,In Progress
+KYC-0239,ANL-04,Individual,France,Low,Onboarding,2026-01-08,2026-02-12,2026-03-05,Completed
+KYC-0240,ANL-06,Individual,France,Low,Periodic,2026-02-01,2026-03-23,2026-03-23,Completed
+KYC-0241,ANL-07,Individual,Italy,Low,Periodic,2026-03-19,2026-05-08,2026-05-20,Completed
+KYC-0242,ANL-08,Corporate,Netherlands,Medium,Onboarding,2026-09-02,2026-10-02,,In Progress
+KYC-0243,ANL-06,Individual,Ireland,Low,Onboarding,2026-08-03,2026-09-07,,Open
+KYC-0244,ANL-07,Individual,France,High,Onboarding,2026-08-12,2026-09-06,2026-09-12,Completed
+KYC-0245,ANL-05,Individual,Netherlands,Medium,Triggered,2025-12-15,2026-01-05,2025-12-27,Completed
+KYC-0246,ANL-08,Corporate,Cyprus,High,Onboarding,2026-08-01,2026-08-26,,In Progress
+KYC-0247,ANL-06,Corporate,Ireland,Medium,Periodic,2026-09-03,2026-10-18,,In Progress
+KYC-0248,ANL-02,Individual,Greece,Medium,Periodic,2026-03-26,2026-05-10,2026-04-10,Completed
+KYC-0249,ANL-04,Individual,Greece,Low,Triggered,2026-09-21,2026-10-17,,In Progress
+KYC-0250,ANL-07,Individual,Spain,Low,Periodic,2026-09-06,2026-10-26,,Open
+KYC-0251,ANL-07,Individual,Ireland,Medium,Onboarding,2026-08-17,2026-09-16,2026-08-27,Completed
+KYC-0252,ANL-03,Individual,Ireland,Medium,Periodic,2026-07-24,2026-09-07,,Open
+KYC-0253,ANL-02,Individual,Greece,High,Onboarding,2026-01-30,2026-02-24,2026-02-10,Completed
+KYC-0254,ANL-05,Corporate,Spain,Medium,Periodic,2026-08-08,2026-09-22,,In Progress
+KYC-0255,ANL-07,Individual,Spain,Medium,Onboarding,2026-09-04,2026-10-04,,In Progress
+KYC-0256,ANL-08,Corporate,Cyprus,Low,Periodic,2026-08-30,2026-10-19,,In Progress
+KYC-0257,ANL-04,Individual,Netherlands,Medium,Periodic,2026-04-06,2026-05-21,2026-05-27,Completed
+KYC-0258,ANL-03,Corporate,Ireland,High,Onboarding,2025-12-13,2026-01-07,2026-01-11,Completed
+KYC-0259,ANL-04,Individual,Italy,Low,Periodic,2026-06-02,2026-07-22,2026-07-07,Completed
+KYC-0260,ANL-04,Individual,Cyprus,High,Onboarding,2026-02-04,2026-03-01,2026-02-11,Completed
+KYC-0261,ANL-03,Individual,France,Low,Onboarding,2026-03-08,2026-04-12,2026-05-11,Completed
+KYC-0262,ANL-04,Corporate,Spain,Low,Onboarding,2026-04-06,2026-05-11,2026-04-19,Completed
+KYC-0263,ANL-03,Individual,Spain,Medium,Onboarding,2026-01-27,2026-02-26,2026-03-14,Completed
+KYC-0264,ANL-01,Individual,Ireland,Medium,Periodic,2026-06-30,2026-08-14,2026-07-22,Completed
+KYC-0265,ANL-01,Corporate,Spain,High,Periodic,2026-09-08,2026-10-18,,In Progress
+KYC-0266,ANL-05,Corporate,Netherlands,Low,Triggered,2026-08-02,2026-08-28,2026-09-06,Completed
+KYC-0267,ANL-04,Individual,France,High,Periodic,2026-01-07,2026-02-16,2026-03-01,Completed
+KYC-0268,ANL-04,Corporate,Ireland,High,Onboarding,2026-07-18,2026-08-12,2026-08-06,Completed
+KYC-0269,ANL-06,Individual,Germany,Low,Triggered,2026-05-29,2026-06-24,2026-07-15,Completed
+KYC-0270,ANL-01,Individual,Netherlands,Low,Triggered,2026-09-07,2026-10-03,,In Progress
+KYC-0271,ANL-02,Individual,Spain,Low,Triggered,2026-03-30,2026-04-25,2026-05-14,Completed
+KYC-0272,ANL-06,Corporate,Spain,Medium,Periodic,2026-02-09,2026-03-26,2026-02-25,Completed
+KYC-0273,ANL-05,Individual,Italy,Low,Periodic,2025-12-01,2026-01-20,2026-01-23,Completed
+KYC-0274,ANL-07,Individual,Germany,High,Periodic,2026-09-20,2026-10-30,,In Progress
+KYC-0275,ANL-06,Corporate,Greece,High,Onboarding,2026-07-11,2026-08-05,,Open
+KYC-0276,ANL-01,Individual,Spain,Medium,Onboarding,2026-04-06,2026-05-06,2026-04-10,Completed
+KYC-0277,ANL-03,Individual,France,Low,Periodic,2026-07-15,2026-09-03,,Open
+KYC-0278,ANL-05,Corporate,Ireland,Medium,Periodic,2026-08-28,2026-10-12,2026-09-04,Completed
+KYC-0279,ANL-06,Individual,Greece,Low,Triggered,2025-12-12,2026-01-07,2026-01-22,Completed
+KYC-0280,ANL-07,Corporate,Italy,High,Periodic,2026-07-01,2026-08-10,2026-08-08,Completed
+KYC-0281,ANL-08,Individual,Germany,Low,Periodic,2026-08-21,2026-10-10,2026-09-04,Completed
+KYC-0282,ANL-04,Individual,Cyprus,Medium,Onboarding,2026-09-22,2026-10-22,,In Progress
+KYC-0283,ANL-01,Corporate,Spain,High,Periodic,2026-06-21,2026-07-31,2026-07-18,Completed
+KYC-0284,ANL-07,Individual,Ireland,Low,Periodic,2026-09-22,2026-11-11,,In Progress
+KYC-0285,ANL-08,Corporate,Spain,Low,Periodic,2026-08-10,2026-09-29,2026-08-28,Completed
+KYC-0286,ANL-04,Corporate,Ireland,Medium,Onboarding,2026-01-26,2026-02-25,2026-03-01,Completed
+KYC-0287,ANL-02,Corporate,Netherlands,Low,Periodic,2026-08-07,2026-09-26,,Open
+KYC-0288,ANL-08,Individual,Netherlands,High,Triggered,2026-08-06,2026-08-22,,In Progress
+KYC-0289,ANL-01,Corporate,Netherlands,Low,Periodic,2026-01-15,2026-03-06,2026-03-16,Completed
+KYC-0290,ANL-02,Corporate,Cyprus,Low,Onboarding,2025-12-07,2026-01-11,2026-02-10,Completed
+KYC-0291,ANL-07,Corporate,Cyprus,Medium,Periodic,2026-07-01,2026-08-15,2026-07-11,Completed
+KYC-0292,ANL-07,Corporate,Greece,Medium,Periodic,2026-01-28,2026-03-14,2026-02-26,Completed
+KYC-0293,ANL-03,Corporate,Italy,Low,Onboarding,2026-06-14,2026-07-19,2026-08-01,Completed
+KYC-0294,ANL-01,Individual,Spain,Low,Periodic,2025-12-01,2026-01-20,2026-01-16,Completed
+KYC-0295,ANL-03,Individual,Greece,Medium,Periodic,2026-03-08,2026-04-22,2026-03-23,Completed
+KYC-0296,ANL-07,Corporate,Ireland,Medium,Periodic,2026-05-28,2026-07-12,2026-06-13,Completed
+KYC-0297,ANL-08,Corporate,Greece,High,Onboarding,2026-06-26,2026-07-21,,In Progress
+KYC-0298,ANL-02,Individual,Netherlands,Medium,Onboarding,2026-07-31,2026-08-30,,In Progress
+KYC-0299,ANL-08,Individual,Italy,High,Periodic,2026-03-13,2026-04-22,2026-05-08,Completed
+KYC-0300,ANL-02,Individual,France,High,Periodic,2026-05-02,2026-06-11,2026-06-02,Completed
+KYC-0301,ANL-02,Corporate,France,Low,Triggered,2026-09-21,2026-10-17,,Open
+KYC-0302,ANL-07,Individual,Cyprus,Medium,Triggered,2026-04-23,2026-05-14,2026-06-06,Completed
+KYC-0303,ANL-05,Individual,Greece,Low,Periodic,2026-09-19,2026-11-08,,Open
+KYC-0304,ANL-06,Corporate,Netherlands,High,Onboarding,2026-08-06,2026-08-31,,Open
+KYC-0305,ANL-04,Individual,Spain,Low,Onboarding,2026-09-07,2026-10-12,,In Progress
+KYC-0306,ANL-04,Individual,Greece,High,Periodic,2026-09-02,2026-10-12,,Open
+KYC-0307,ANL-08,Corporate,France,Low,Onboarding,2026-08-15,2026-09-19,2026-09-25,Completed
+KYC-0308,ANL-01,Individual,Greece,Low,Periodic,2026-09-03,2026-10-23,2026-09-24,Completed
+KYC-0309,ANL-08,Corporate,Netherlands,Low,Triggered,2026-08-19,2026-09-14,2026-09-11,Completed
+KYC-0310,ANL-04,Individual,France,Medium,Triggered,2026-07-23,2026-08-13,,Open
+KYC-0311,ANL-06,Individual,Greece,Medium,Onboarding,2026-08-11,2026-09-10,,Open
+KYC-0312,ANL-06,Corporate,Spain,High,Onboarding,2026-09-02,2026-09-27,,In Progress
+KYC-0313,ANL-03,Individual,Ireland,Low,Periodic,2026-05-07,2026-06-26,2026-06-14,Completed
+KYC-0314,ANL-03,Individual,Italy,Medium,Periodic,2026-07-10,2026-08-24,,In Progress
+KYC-0315,ANL-06,Corporate,Italy,Medium,Triggered,2026-01-12,2026-02-02,2026-03-01,Completed
+KYC-0316,ANL-08,Individual,Ireland,High,Triggered,2026-09-10,2026-09-26,,In Progress
+KYC-0317,ANL-07,Corporate,Ireland,Low,Triggered,2026-08-22,2026-09-17,,In Progress
+KYC-0318,ANL-01,Corporate,Netherlands,Low,Periodic,2026-07-12,2026-08-31,,In Progress
+KYC-0319,ANL-05,Corporate,Cyprus,Low,Onboarding,2026-09-07,2026-10-12,,In Progress
+KYC-0320,ANL-04,Corporate,France,Low,Triggered,2026-05-06,2026-06-01,2026-07-02,Completed
+KYC-0321,ANL-08,Corporate,Greece,Low,Periodic,2026-06-30,2026-08-19,2026-08-30,Completed
+KYC-0322,ANL-03,Corporate,Netherlands,Low,Onboarding,2026-05-02,2026-06-06,2026-05-27,Completed
+KYC-0323,ANL-06,Individual,Germany,Low,Periodic,2026-04-08,2026-05-28,2026-05-27,Completed
+KYC-0324,ANL-03,Individual,Cyprus,Medium,Periodic,2026-06-22,2026-08-06,,In Progress
+KYC-0325,ANL-01,Individual,Netherlands,High,Periodic,2026-07-02,2026-08-11,,In Progress
+KYC-0326,ANL-07,Corporate,France,Medium,Onboarding,2026-08-30,2026-09-29,,In Progress
+KYC-0327,ANL-01,Individual,Germany,Medium,Onboarding,2026-08-29,2026-09-28,,In Progress
+KYC-0328,ANL-06,Corporate,Germany,High,Triggered,2025-12-28,2026-01-13,2026-01-21,Completed
+KYC-0329,ANL-06,Individual,Netherlands,High,Triggered,2026-08-05,2026-08-21,,In Progress
+KYC-0330,ANL-04,Individual,Greece,High,Triggered,2026-09-19,2026-10-05,,Open
+KYC-0331,ANL-04,Individual,Netherlands,Low,Periodic,2026-08-16,2026-10-05,,In Progress
+KYC-0332,ANL-07,Individual,Netherlands,Low,Onboarding,2026-08-08,2026-09-12,,In Progress
+KYC-0333,ANL-07,Corporate,Spain,High,Onboarding,2026-01-19,2026-02-13,2026-03-07,Completed
+KYC-0334,ANL-02,Individual,Italy,Low,Triggered,2026-08-09,2026-09-04,,In Progress
+KYC-0335,ANL-06,Individual,Greece,Medium,Onboarding,2026-07-22,2026-08-21,,In Progress
+KYC-0336,ANL-01,Individual,Cyprus,Medium,Onboarding,2026-08-17,2026-09-16,,Open
+KYC-0337,ANL-04,Individual,Cyprus,Low,Onboarding,2026-07-24,2026-08-28,,Open
+KYC-0338,ANL-02,Corporate,Germany,Low,Triggered,2026-05-11,2026-06-06,2026-05-20,Completed
+KYC-0339,ANL-06,Individual,Netherlands,Medium,Periodic,2025-12-15,2026-01-29,2026-01-21,Completed
+KYC-0340,ANL-03,Individual,Italy,Low,Periodic,2026-05-27,2026-07-16,2026-06-11,Completed
+KYC-0341,ANL-03,Individual,Ireland,Medium,Periodic,2026-09-18,2026-11-02,,In Progress
+KYC-0342,ANL-03,Individual,Netherlands,Low,Periodic,2026-08-19,2026-10-08,,Open
+KYC-0343,ANL-02,Individual,France,Medium,Triggered,2025-11-24,2025-12-15,2026-01-01,Completed
+KYC-0344,ANL-08,Individual,Greece,Low,Onboarding,2026-08-04,2026-09-08,,In Progress
+KYC-0345,ANL-02,Corporate,Greece,Low,Onboarding,2026-03-23,2026-04-27,2026-05-11,Completed
+KYC-0346,ANL-03,Corporate,Spain,Medium,Onboarding,2026-08-04,2026-09-03,,In Progress
+KYC-0347,ANL-01,Individual,Italy,Low,Periodic,2026-06-10,2026-07-30,2026-07-18,Completed
+KYC-0348,ANL-02,Corporate,Cyprus,Low,Periodic,2026-02-26,2026-04-17,2026-04-28,Completed
+KYC-0349,ANL-04,Individual,Greece,Low,Periodic,2026-07-31,2026-09-19,,In Progress
+KYC-0350,ANL-04,Individual,Germany,Medium,Onboarding,2026-01-17,2026-02-16,2026-02-01,Completed
+KYC-0351,ANL-06,Corporate,Italy,High,Periodic,2026-04-05,2026-05-15,2026-04-18,Completed
+KYC-0352,ANL-04,Corporate,France,High,Periodic,2026-09-23,2026-11-02,,In Progress
+KYC-0353,ANL-02,Individual,Spain,Medium,Onboarding,2026-01-22,2026-02-21,2026-02-12,Completed
+KYC-0354,ANL-07,Individual,Netherlands,High,Onboarding,2025-12-06,2025-12-31,2025-12-13,Completed
+KYC-0355,ANL-07,Individual,Netherlands,Medium,Periodic,2026-06-20,2026-08-04,2026-07-24,Completed
+KYC-0356,ANL-07,Corporate,Greece,Medium,Triggered,2026-09-05,2026-09-26,,In Progress
+KYC-0357,ANL-02,Individual,Cyprus,Medium,Onboarding,2026-09-11,2026-10-11,,Open
+KYC-0358,ANL-01,Corporate,Italy,High,Onboarding,2026-01-25,2026-02-19,2026-02-03,Completed
+KYC-0359,ANL-03,Corporate,Italy,Low,Periodic,2026-02-12,2026-04-03,2026-02-15,Completed
+KYC-0360,ANL-07,Individual,Spain,Low,Onboarding,2026-02-17,2026-03-24,2026-02-23,Completed
+KYC-0361,ANL-05,Corporate,Germany,Medium,Onboarding,2026-06-27,2026-07-27,2026-07-14,Completed
+KYC-0362,ANL-06,Individual,Spain,Low,Periodic,2026-09-10,2026-10-30,,In Progress
+KYC-0363,ANL-04,Individual,Cyprus,High,Periodic,2026-02-05,2026-03-17,2026-03-17,Completed
+KYC-0364,ANL-08,Corporate,Spain,Medium,Triggered,2026-08-28,2026-09-18,2026-09-19,Completed
+KYC-0365,ANL-04,Corporate,Italy,High,Triggered,2026-02-14,2026-03-02,2026-02-18,Completed
+KYC-0366,ANL-07,Corporate,Netherlands,Low,Onboarding,2026-08-30,2026-10-04,,In Progress
+KYC-0367,ANL-01,Individual,Greece,Low,Triggered,2026-03-24,2026-04-19,2026-05-27,Completed
+KYC-0368,ANL-08,Individual,Greece,Low,Periodic,2026-01-25,2026-03-16,2026-03-19,Completed
+KYC-0369,ANL-07,Individual,Netherlands,Low,Periodic,2025-12-27,2026-02-15,2026-01-22,Completed
+KYC-0370,ANL-04,Corporate,Cyprus,High,Periodic,2026-08-16,2026-09-25,,In Progress
+KYC-0371,ANL-06,Corporate,Ireland,Medium,Onboarding,2026-08-07,2026-09-06,,In Progress
+KYC-0372,ANL-01,Corporate,Italy,Low,Triggered,2026-05-24,2026-06-19,2026-07-01,Completed
+KYC-0373,ANL-01,Individual,Germany,Low,Periodic,2026-02-13,2026-04-04,2026-02-17,Completed
+KYC-0374,ANL-04,Individual,Spain,Medium,Onboarding,2026-08-05,2026-09-04,,Open
+KYC-0375,ANL-08,Individual,Cyprus,Low,Onboarding,2026-08-12,2026-09-16,,Open
+KYC-0376,ANL-07,Corporate,Italy,Low,Periodic,2026-01-04,2026-02-23,2026-03-01,Completed
+KYC-0377,ANL-06,Corporate,Ireland,Medium,Periodic,2026-09-17,2026-11-01,,In Progress
+KYC-0378,ANL-05,Individual,Cyprus,Medium,Onboarding,2025-12-05,2026-01-04,2026-01-19,Completed
+KYC-0379,ANL-04,Individual,Germany,Low,Periodic,2026-08-26,2026-10-15,2026-09-10,Completed
+KYC-0380,ANL-07,Individual,Greece,Low,Periodic,2026-07-10,2026-08-29,,In Progress
+KYC-0381,ANL-06,Individual,Cyprus,Low,Periodic,2026-07-22,2026-09-10,,In Progress
+KYC-0382,ANL-07,Individual,Greece,Low,Periodic,2026-08-06,2026-09-25,,In Progress
+KYC-0383,ANL-07,Individual,Ireland,Medium,Triggered,2026-07-25,2026-08-15,,Open
+KYC-0384,ANL-08,Individual,Netherlands,Medium,Periodic,2026-09-09,2026-10-24,,In Progress
+KYC-0385,ANL-03,Individual,Netherlands,Medium,Triggered,2026-01-25,2026-02-15,2026-01-30,Completed
+KYC-0386,ANL-05,Corporate,Ireland,Medium,Periodic,2026-08-22,2026-10-06,,Open
+KYC-0387,ANL-01,Corporate,Greece,Medium,Onboarding,2026-01-25,2026-02-24,2026-03-13,Completed
+KYC-0388,ANL-06,Corporate,Germany,Low,Onboarding,2026-02-08,2026-03-15,2026-03-09,Completed
+KYC-0389,ANL-02,Individual,Netherlands,Medium,Triggered,2026-02-24,2026-03-17,2026-04-30,Completed
+KYC-0390,ANL-05,Individual,Ireland,Medium,Periodic,2025-11-25,2026-01-09,2026-01-08,Completed
+KYC-0391,ANL-08,Individual,Italy,Medium,Onboarding,2026-09-10,2026-10-10,2026-09-15,Completed
+KYC-0392,ANL-08,Individual,Cyprus,Low,Triggered,2026-03-25,2026-04-20,2026-04-11,Completed
+KYC-0393,ANL-06,Corporate,Greece,Medium,Triggered,2026-07-29,2026-08-19,,In Progress
+KYC-0394,ANL-07,Corporate,Germany,Low,Onboarding,2025-11-28,2026-01-02,2025-12-21,Completed
+KYC-0395,ANL-02,Corporate,Netherlands,Medium,Periodic,2026-02-15,2026-04-01,2026-03-14,Completed
+KYC-0396,ANL-07,Corporate,Spain,Low,Periodic,2026-06-14,2026-08-03,2026-07-25,Completed
+KYC-0397,ANL-02,Corporate,Italy,Low,Triggered,2026-03-04,2026-03-30,2026-04-04,Completed
+KYC-0398,ANL-01,Individual,Spain,Low,Triggered,2026-09-18,2026-10-14,,In Progress
+KYC-0399,ANL-03,Individual,Italy,Medium,Periodic,2026-08-04,2026-09-18,2026-09-12,Completed
+KYC-0400,ANL-08,Individual,Spain,Low,Onboarding,2026-01-31,2026-03-07,2026-04-05,Completed
+KYC-0401,ANL-05,Corporate,Greece,High,Triggered,2026-09-16,2026-10-02,,Open
+KYC-0402,ANL-06,Individual,Italy,Medium,Periodic,2026-09-20,2026-11-04,,In Progress
+KYC-0403,ANL-07,Individual,Ireland,Medium,Periodic,2026-06-10,2026-07-25,,In Progress
+KYC-0404,ANL-02,Corporate,Cyprus,Medium,Periodic,2026-08-15,2026-09-29,2026-08-25,Completed
+KYC-0405,ANL-01,Individual,France,Medium,Periodic,2026-07-24,2026-09-07,,Open
+KYC-0406,ANL-06,Individual,Ireland,Low,Periodic,2026-04-26,2026-06-15,2026-05-19,Completed
+KYC-0407,ANL-03,Individual,Ireland,Medium,Onboarding,2026-07-16,2026-08-15,2026-08-26,Completed
+KYC-0408,ANL-06,Individual,Greece,Medium,Onboarding,2026-03-14,2026-04-13,2026-05-01,Completed
+KYC-0409,ANL-06,Corporate,Spain,Low,Onboarding,2026-01-28,2026-03-04,2026-03-13,Completed
+KYC-0410,ANL-08,Corporate,Spain,Low,Triggered,2026-08-26,2026-09-21,2026-09-11,Completed
+KYC-0411,ANL-01,Corporate,Ireland,Low,Onboarding,2026-09-06,2026-10-11,,In Progress
+KYC-0412,ANL-01,Individual,France,Medium,Periodic,2026-03-04,2026-04-18,2026-03-10,Completed
+KYC-0413,ANL-02,Individual,France,High,Onboarding,2026-09-21,2026-10-16,,In Progress
+KYC-0414,ANL-01,Corporate,Ireland,Low,Periodic,2026-06-26,2026-08-15,,In Progress
+KYC-0415,ANL-03,Corporate,Spain,Low,Onboarding,2026-09-23,2026-10-28,,In Progress
+KYC-0416,ANL-02,Individual,Italy,Low,Periodic,2026-09-05,2026-10-25,,In Progress
+KYC-0417,ANL-04,Individual,France,High,Periodic,2026-04-12,2026-05-22,2026-05-19,Completed
+KYC-0418,ANL-08,Corporate,Cyprus,Medium,Periodic,2026-08-28,2026-10-12,,In Progress
+KYC-0419,ANL-07,Individual,Greece,High,Onboarding,2026-09-11,2026-10-06,,Open
+KYC-0420,ANL-05,Individual,Greece,Medium,Periodic,2026-03-12,2026-04-26,2026-03-21,Completed
+KYC-0421,ANL-06,Individual,Greece,Medium,Periodic,2026-08-12,2026-09-26,2026-09-06,Completed
+KYC-0422,ANL-04,Individual,France,Low,Onboarding,2026-01-02,2026-02-06,2026-01-09,Completed
+KYC-0423,ANL-05,Individual,Italy,Low,Onboarding,2026-07-22,2026-08-26,2026-09-19,Completed
+KYC-0424,ANL-02,Corporate,France,Low,Periodic,2026-05-29,2026-07-18,2026-06-12,Completed
+KYC-0425,ANL-02,Corporate,Germany,Low,Periodic,2025-12-21,2026-02-09,2026-02-15,Completed
+KYC-0426,ANL-03,Individual,France,Medium,Triggered,2026-03-27,2026-04-17,2026-05-06,Completed
+KYC-0427,ANL-01,Individual,Cyprus,High,Onboarding,2026-09-02,2026-09-27,,Open
+KYC-0428,ANL-04,Individual,France,Low,Onboarding,2026-08-12,2026-09-16,,In Progress
+KYC-0429,ANL-01,Individual,Spain,Medium,Triggered,2026-09-05,2026-09-26,,In Progress
+KYC-0430,ANL-01,Individual,Spain,Medium,Periodic,2026-06-09,2026-07-24,2026-06-18,Completed
+KYC-0431,ANL-06,Individual,Spain,High,Onboarding,2026-02-16,2026-03-13,2026-03-06,Completed
+KYC-0432,ANL-01,Corporate,Ireland,High,Onboarding,2025-12-25,2026-01-19,2026-02-24,Completed
+KYC-0433,ANL-05,Individual,Cyprus,Medium,Triggered,2026-04-05,2026-04-26,2026-05-12,Completed
+KYC-0434,ANL-03,Corporate,Italy,Low,Triggered,2026-09-21,2026-10-17,,In Progress
+KYC-0435,ANL-02,Individual,Netherlands,Medium,Onboarding,2026-05-15,2026-06-14,2026-06-17,Completed
+KYC-0436,ANL-05,Corporate,Ireland,Low,Onboarding,2026-03-06,2026-04-10,2026-03-27,Completed
+KYC-0437,ANL-07,Corporate,Ireland,Medium,Onboarding,2026-09-23,2026-10-23,,Open
+KYC-0438,ANL-08,Corporate,Netherlands,High,Periodic,2026-09-11,2026-10-21,,Open
+KYC-0439,ANL-05,Individual,Italy,Medium,Triggered,2026-04-20,2026-05-11,2026-05-09,Completed
+KYC-0440,ANL-01,Individual,Greece,Low,Onboarding,2026-04-03,2026-05-08,2026-04-23,Completed
+KYC-0441,ANL-08,Individual,Netherlands,Medium,Periodic,2025-12-18,2026-02-01,2026-01-21,Completed
+KYC-0442,ANL-07,Individual,Italy,High,Periodic,2026-08-31,2026-10-10,,In Progress
+KYC-0443,ANL-02,Individual,Spain,Low,Periodic,2026-07-13,2026-09-01,,In Progress
+KYC-0444,ANL-07,Individual,Netherlands,Medium,Onboarding,2026-01-22,2026-02-21,2026-03-10,Completed
+KYC-0445,ANL-05,Individual,Netherlands,Medium,Periodic,2026-03-29,2026-05-13,2026-04-12,Completed
+KYC-0446,ANL-07,Individual,Ireland,Medium,Periodic,2026-08-22,2026-10-06,,In Progress
+KYC-0447,ANL-07,Corporate,Germany,Low,Onboarding,2026-07-20,2026-08-24,2026-09-14,Completed
+KYC-0448,ANL-07,Individual,Greece,Medium,Periodic,2026-02-04,2026-03-21,2026-04-04,Completed
+KYC-0449,ANL-05,Individual,Germany,Low,Onboarding,2026-08-06,2026-09-10,,In Progress
+KYC-0450,ANL-04,Corporate,Cyprus,Low,Onboarding,2026-07-27,2026-08-31,2026-08-28,Completed
+KYC-0451,ANL-03,Corporate,France,High,Onboarding,2026-01-22,2026-02-16,2026-03-14,Completed
+KYC-0452,ANL-03,Individual,France,Medium,Periodic,2026-08-13,2026-09-27,2026-09-13,Completed
+KYC-0453,ANL-02,Individual,Italy,Medium,Periodic,2026-09-10,2026-10-25,,Open
+KYC-0454,ANL-01,Individual,Netherlands,Low,Periodic,2026-04-18,2026-06-07,2026-06-22,Completed
+KYC-0455,ANL-04,Individual,Greece,Low,Onboarding,2026-03-23,2026-04-27,2026-04-06,Completed
+KYC-0456,ANL-01,Individual,France,Low,Periodic,2025-12-07,2026-01-26,2026-01-12,Completed
+KYC-0457,ANL-08,Corporate,Germany,High,Onboarding,2026-09-10,2026-10-05,,In Progress
+KYC-0458,ANL-01,Corporate,Ireland,Low,Onboarding,2026-08-02,2026-09-06,2026-09-10,Completed
+KYC-0459,ANL-05,Individual,Italy,Medium,Periodic,2026-07-24,2026-09-07,,Open
+KYC-0460,ANL-02,Individual,Germany,Low,Periodic,2026-05-31,2026-07-20,2026-07-13,Completed
+KYC-0461,ANL-05,Corporate,Greece,High,Onboarding,2026-07-11,2026-08-05,2026-08-21,Completed
+KYC-0462,ANL-01,Corporate,France,Low,Periodic,2026-05-04,2026-06-23,2026-06-16,Completed
+KYC-0463,ANL-06,Corporate,Spain,Low,Periodic,2025-11-28,2026-01-17,2026-01-21,Completed
+KYC-0464,ANL-08,Corporate,Cyprus,Low,Onboarding,2026-03-13,2026-04-17,2026-05-12,Completed
+KYC-0465,ANL-02,Corporate,Netherlands,Medium,Onboarding,2026-03-20,2026-04-19,2026-05-22,Completed
+KYC-0466,ANL-01,Corporate,Netherlands,High,Periodic,2026-07-20,2026-08-29,,In Progress
+KYC-0467,ANL-08,Corporate,Greece,Medium,Onboarding,2026-06-29,2026-07-29,2026-07-19,Completed
+KYC-0468,ANL-04,Individual,Italy,Medium,Triggered,2026-09-06,2026-09-27,,In Progress
+KYC-0469,ANL-04,Corporate,Greece,Low,Onboarding,2026-05-06,2026-06-10,2026-06-13,Completed
+KYC-0470,ANL-08,Corporate,Spain,Medium,Periodic,2026-04-18,2026-06-02,2026-06-16,Completed
+KYC-0471,ANL-07,Individual,Greece,High,Periodic,2026-05-02,2026-06-11,2026-06-09,Completed
+KYC-0472,ANL-03,Individual,Cyprus,Low,Periodic,2026-08-09,2026-09-28,,Open
+KYC-0473,ANL-03,Individual,Ireland,Medium,Periodic,2026-04-15,2026-05-30,2026-04-20,Completed
+KYC-0474,ANL-02,Individual,Cyprus,Medium,Periodic,2026-02-09,2026-03-26,2026-03-05,Completed
+KYC-0475,ANL-01,Corporate,Italy,Medium,Periodic,2026-06-04,2026-07-19,2026-06-10,Completed
+KYC-0476,ANL-08,Individual,Netherlands,Low,Onboarding,2026-05-04,2026-06-08,2026-06-28,Completed
+KYC-0477,ANL-01,Individual,Germany,Low,Periodic,2026-09-05,2026-10-25,,Open
+KYC-0478,ANL-02,Corporate,Ireland,High,Periodic,2026-08-07,2026-09-16,,In Progress
+KYC-0479,ANL-07,Individual,Ireland,Low,Onboarding,2026-08-11,2026-09-15,,In Progress
+KYC-0480,ANL-03,Individual,Germany,Low,Triggered,2026-08-25,2026-09-20,,Open
+KYC-0481,ANL-05,Individual,Italy,High,Periodic,2026-09-09,2026-10-19,,In Progress
+KYC-0482,ANL-03,Individual,France,Medium,Periodic,2026-07-26,2026-09-09,,In Progress
+KYC-0483,ANL-03,Corporate,Spain,High,Periodic,2026-01-11,2026-02-20,2026-01-30,Completed
+KYC-0484,ANL-07,Individual,Spain,Low,Triggered,2026-03-13,2026-04-08,2026-04-24,Completed
+KYC-0485,ANL-02,Individual,Netherlands,Medium,Periodic,2026-09-16,2026-10-31,,Open
+KYC-0486,ANL-01,Corporate,Spain,Medium,Periodic,2025-12-25,2026-02-08,2026-01-05,Completed
+KYC-0487,ANL-01,Individual,Spain,Low,Periodic,2026-09-01,2026-10-21,,In Progress
+KYC-0488,ANL-04,Corporate,Ireland,Low,Onboarding,2026-09-03,2026-10-08,2026-09-14,Completed
+KYC-0489,ANL-01,Corporate,Italy,High,Triggered,2026-01-19,2026-02-04,2026-02-13,Completed
+KYC-0490,ANL-06,Corporate,Netherlands,Medium,Onboarding,2026-09-05,2026-10-05,,In Progress
+KYC-0491,ANL-05,Individual,Ireland,Low,Triggered,2026-05-22,2026-06-17,2026-06-15,Completed
+KYC-0492,ANL-04,Individual,Spain,Medium,Periodic,2026-06-28,2026-08-12,,In Progress
+KYC-0493,ANL-03,Individual,Ireland,Low,Onboarding,2026-08-15,2026-09-19,2026-08-29,Completed
+KYC-0494,ANL-08,Corporate,Spain,Low,Onboarding,2026-09-03,2026-10-08,,Open
+KYC-0495,ANL-04,Corporate,Italy,Medium,Onboarding,2026-08-09,2026-09-08,2026-09-22,Completed
+KYC-0496,ANL-06,Individual,France,Medium,Periodic,2026-09-01,2026-10-16,2026-09-20,Completed
+KYC-0497,ANL-08,Corporate,Italy,Low,Periodic,2025-12-04,2026-01-23,2026-01-21,Completed
+KYC-0498,ANL-02,Individual,Greece,Low,Periodic,2026-06-04,2026-07-24,,Open
+KYC-0499,ANL-02,Individual,Spain,Medium,Onboarding,2026-07-24,2026-08-23,,In Progress
+KYC-0500,ANL-06,Corporate,Spain,Medium,Onboarding,2026-07-30,2026-08-29,,In Progress
