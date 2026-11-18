@@ -8,7 +8,7 @@ The analysis uses a synthetic AML alert dataset and focuses on data quality, exp
 
 ## Dataset
 
-The final cleaned dataset contains **755 alerts and 13 variables**, including:
+The final cleaned dataset contains **795 alerts and 13 variables**, including:
 
 - Customer risk rating
 - Country risk
@@ -39,6 +39,17 @@ Exploratory analysis was performed using **pandas** and **matplotlib**.
 
 The notebook includes three AML-focused visualisations designed to examine alert distribution and risk characteristics and to support risk-based prioritisation.
 
+## Priority Segmentation Update
+
+Added priority segmentation for AML alert triage using the `priority_score`.
+
+- Low: 3–6 → 253 alerts
+- Medium: 7–12 → 359 alerts
+- High: 13–21 → 183 alerts
+
+The segmentation covers all 795 alerts and is visualized with a bar chart.
+
+
 ## Tools
 
 - Python
@@ -65,3 +76,4 @@ The complete Python analysis is available here:
 ## Notes
 
 This project was created as part of a Risk & Compliance Analytics portfolio. All data used in the analysis is synthetic and was created solely for analytical practice.
+
